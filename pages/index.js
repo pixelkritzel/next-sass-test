@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={CSS.upperClass}>
-          Get started <div className={CSS.underClass}>by editing</div>{' '}
+          Get started <span className={CSS.underClass}>by editing</span>{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
